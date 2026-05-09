@@ -1,0 +1,14 @@
+Chapter 5
+RESULTS AND DISCUSSION
+
+5.1 Output Screen
+[Leave blank for output screens to be inserted later]
+
+5.2 Limitation
+- Initial release may not support complex third-party API integration for pulling live movie feeds continuously.
+- Relies heavily on the community for generating comprehensive reviews and driving movie ratings.
+
+5.3 Future Scope
+- Implementation of recommendation algorithms suggesting movies based on past user reviews.
+- Inclusion of real-time discussion forums.
+- Social media integration for sharing reviews easily.

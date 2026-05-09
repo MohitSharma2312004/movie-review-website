@@ -1,0 +1,9 @@
+Chapter 7
+REFERENCES
+
+1. MongoDB Documentation. Available at: https://docs.mongodb.com/
+2. Express.js Official Guide. Available at: https://expressjs.com/
+3. React.js Official Documentation. Available at: https://reactjs.org/docs/getting-started.html
+4. Node.js Official Documentation. Available at: https://nodejs.org/en/docs/
+5. MERN Stack Integration Guidelines.
+6. Fundamentals of Database Systems by R. Elmasri, S. Navathe (for Data Normalization and Database Design strategies).

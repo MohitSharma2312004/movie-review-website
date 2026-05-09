@@ -1,0 +1,8 @@
+Chapter 1
+INTRODUCTION
+
+1.1 OVERVIEW
+This project develops a comprehensive and user-friendly Movie Review platform using the robust MERN stack (MongoDB, Express.js, React, Node.js). It will offer a seamless platform for movie enthusiasts to discover films, read critiques, and share their own reviews. Core features include secure user management, a dynamic movie catalog with search capabilities, and detailed movie pages containing cast, crew, synopsis, and user-generated ratings. A secure admin backend will allow content managers to add or update movies and moderate reviews. Prioritizing a modern UI, the platform aims to be highly engaging, scalable, and fully responsive across various devices.
+
+1.2 OBJECTIVES
+The primary objectives of this Movie Review platform project are to develop a fully functional and responsive website using MongoDB, Express.js, React, and Node.js, providing an intuitive and engaging user experience for movie browsing and community interaction. A key goal is to implement a secure system for user registration, authentication, and review submission, alongside administrative tools for managing the movie database. Furthermore, the project aims to establish a trusted community space by displaying average ratings and authentic reviews, all within a stylish and modern user interface that ensures accessibility across various devices.
