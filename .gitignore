@@ -1,3 +1,15 @@
 node_modules/
 .env
 .DS_Store
+Project_Report/
+Project Report new.docx
+extracted_docx/
+extracted_docx_text.txt
+extracted_text.txt
+dfd.R
+er_diagram.R
+use_case_diagram.R
+extract.ps1
+read_docx.py
+temp.zip
+test_delete.js
